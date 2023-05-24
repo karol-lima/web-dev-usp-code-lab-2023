@@ -1,1 +1,23 @@
+# O que é JavaScript?
 
+JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
+Junto com CSS e HTML forma a Santíssima Trindade do World Wilde Web 😆
+Ela torna as páginas da internet interativas.
+
+# Variáveis e Constantes
+
+## Variáveis:
+
+```java
+let x = 25;
+```
+
+É chamada de variável e é possível alterá-la. Não precisamos declarar qual é o tipo da variável, ele é inteligentinho e vai entender
+
+## Constantes
+
+Já as constantes, não conseguimos fazer alteração 
+
+```java
+const y = 30;
+```
